@@ -1,2 +1,0 @@
-# thelog
-Coolest website ever
